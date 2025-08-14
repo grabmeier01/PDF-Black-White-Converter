@@ -33,3 +33,9 @@ A professional Python GUI application that converts PDF files to optimized black
   PyMuPDF (fitz)
   Pillow (PIL)
   img2pdf
+
+# Installation
+  Clone the repository:
+  ```bash
+  git clone https://github.com/yourusername/pdf-to-bw-converter.git
+  cd pdf-to-bw-converter
